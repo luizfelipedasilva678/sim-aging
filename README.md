@@ -1,2 +1,1 @@
-# sim-aging
-Aging algorithm simulator
+# Simulator Aging algorithm
