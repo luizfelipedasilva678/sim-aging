@@ -6,7 +6,7 @@ This is simulator of aging algorith used to page substituition on OS.
 
 ## How can I execute this code?
 
-The param of this program is a .txt file following format.
+The param of this program is a .txt file following format:
 
 4 8  
 10101011  
