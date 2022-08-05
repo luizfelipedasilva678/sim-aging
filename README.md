@@ -35,5 +35,3 @@ page that must be substitued.
 0100   
 0111   
 0111   
-
-Pagina a ser removida => 1 
