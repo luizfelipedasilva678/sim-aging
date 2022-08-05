@@ -86,9 +86,6 @@ void showResult(FileInfos infos, unsigned int ** counter, int minorPage) {
         printf("%s \n", binaryUnit(infos.bits, counter[i][0], binaryNumber));
     }
 
-    printf("\n");
-    printf("Pagina a ser removida => %d \n", minorPage);
-
     free(binaryNumber);
 }
 
