@@ -89,9 +89,6 @@ void writeFileResult(FileInfos infos, unsigned int ** counter, int minorPage) {
         fprintf(file, "%s \n", binaryUnit(infos.bits, counter[i][0], binaryNumber));
     }
 
-    fprintf(file, "\n");
-    fprintf(file, "Pagina a ser removida => %d \n", minorPage);
-
     free(binaryNumber);
     fclose(file);
 }
